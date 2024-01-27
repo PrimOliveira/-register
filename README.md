@@ -7,7 +7,7 @@ Creating a form in which the user will fill in name and contact number, when cli
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="\o1.png"  width="500">
+<img src="\Imagens\o1.png"  width="500">
 
 # Technologies
 - Html
